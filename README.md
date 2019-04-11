@@ -1,6 +1,7 @@
 # GDLauncher
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNanobugXL%2FWestgateXL.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNanobugXL%2FWestgateXL?ref=badge_shield)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub issues](https://img.shields.io/github/issues-raw/gorilla-devs/GDLauncher.svg)](https://github.com/gorilla-devs/GDLauncher/issues) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/213eb618fa59424fba7ccfcd4f1b6a09)](https://www.codacy.com/app/gorilla-devs/GDLauncher?utm_source=github.com&utm_medium=referral&utm_content=gorilla-devs/GDLauncher&utm_campaign=Badge_Grade) [![GitHub pull requests](https://img.shields.io/github/issues-pr/gorilla-devs/GDLauncher.svg)](https://github.com/gorilla-devs/GDLauncher/pulls)
 
@@ -149,6 +150,9 @@ See also the list of [contributors](https://github.com/gorilla-devs/GDLauncher/c
 ## 🎓 License
 
 This project is licensed under the GNU GPL V3.0 - see the [LICENSE](LICENSE) file for details
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNanobugXL%2FWestgateXL.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNanobugXL%2FWestgateXL?ref=badge_large)
 
 ## ✏️ Todos
 
